@@ -1,0 +1,40 @@
+body {
+  font-family: helvetica;
+  color: dimgrey;
+}
+
+h1 {
+  font-size: 24px;
+  background-color: dimgrey;
+  padding: 10px;
+  color: WHITE;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 13px;
+}
+
+.list li {
+  font-size: 13px;
+  font-weight: 18px;
+}
+
+.image {
+  width: 40%;
+}
+
+.Mood {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.signoff p {
+  font-family: Papyrus;
+  font-size: 15px;
+  font-weight: bold;
+}
